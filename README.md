@@ -6,4 +6,4 @@ Applications include customer satisfaction analysis from customer support calls,
 retrieval, medical diagnostic aids and patient monitoring, assistive technologies for people with hearing impairments, and audio analysis for public safety.
 
 
-![alt text](https://www.google.com/search?q=music+anatomy&rlz=1C1SQJL_enIN869IN869&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsibXk6v3tAhWK63MBHd8FBZ8Q_AUoAXoECBoQAw&biw=1536&bih=754#imgrc=uLIKvAvHET-p9M)
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fearthlymission.com%2Fanatomy-of-different-music-genres%2F&psig=AOvVaw1c3sRrgbyCQsjyOUXAV7k4&ust=1609697112279000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLClsZjr_e0CFQAAAAAdAAAAABAX)
