@@ -5,7 +5,9 @@ with numerous applications in the enterprise, healthcare, productivity, and smar
 Applications include customer satisfaction analysis from customer support calls, media content analysis and 
 retrieval, medical diagnostic aids and patient monitoring, assistive technologies for people with hearing impairments, and audio analysis for public safety.
 
-![](Images/anatomy-of-songs.jpg)
+<p align="center">
+  <img src="Images/anatomy-of-songs.jpg" height=600 width=300>
+</p>
 
 
 <h3>Visualizing Audio:</h3>
