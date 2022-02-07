@@ -10,7 +10,7 @@ retrieval, medical diagnostic aids and patient monitoring, assistive technologie
 </p>
 
 
-<h3>Visualizing Audio:</h3>
+<h3><u>Visualizing Audio:</u></h3>
 
 ***Plot of the amplitude envelope of a waveform***
 
